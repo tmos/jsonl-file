@@ -1,6 +1,6 @@
 {
   "name": "jsonl-file",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": " Write and read Line Delimited JSON (jsonl) files ",
   "main": "dist/index.js",
   "repository": "https://github.com/tmos/jsonl-file",
